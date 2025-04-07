@@ -1,0 +1,35 @@
+﻿7c5d9e2f;The Witcher 3;RPG;142;78.5;true;95m;2025-02-18;84%;true;Overwhelmingly Positive
+2b8a4f3e;Cyberpunk 2077;RPG;87;102.3;true;120m;2025-03-21;67%;false;Mostly Positive
+6d2e9c5a;Elden Ring;Souls-like;113;68.9;true;105m;2025-03-30;72%;false;Very Positive
+1a3b8f7d;Red Dead Redemption 2;Action Adventure;96;112.5;true;85m;2025-02-05;58%;false;Very Positive
+5f9e2c8b;Half-Life: Alyx;VR;24;67.8;false;45m;2024-11-12;91%;true;Overwhelmingly Positive
+8c4d1a7e;Baldur's Gate 3;RPG;156;122.4;true;115m;2025-03-28;78%;false;Overwhelmingly Positive
+3e6b9f2d;God of War;Action Adventure;35;51.2;true;70m;2025-01-15;95%;true;Overwhelmingly Positive
+9a5c2d7f;Hollow Knight;Metroidvania;52;8.9;true;65m;2025-02-28;83%;true;Overwhelmingly Positive
+4d8e1b3a;Starfield;RPG;74;118.6;false;90m;2024-12-10;61%;false;Mixed
+7b2f9c5e;Hades;Roguelike;68;10.2;true;40m;2025-03-12;79%;true;Very Positive
+2e5a8d1c;Control;Action Adventure;29;42.5;true;75m;2024-09-18;72%;true;Very Positive
+6c1b3f9a;Disco Elysium;RPG;45;15.6;true;85m;2025-01-27;88%;true;Very Positive
+9f3d7e2b;Doom Eternal;FPS;37;68.9;true;60m;2025-02-14;81%;true;Very Positive
+5a8c4f1d;Resident Evil 4 Remake;Survival Horror;32;45.8;false;65m;2024-10-05;76%;true;Very Positive
+8d2b6e9c;Horizon Forbidden West;Action RPG;49;98.3;true;80m;2025-03-06;65%;false;Mostly Positive
+3b7a4c1e;Death Stranding;Adventure;58;85.4;false;95m;2024-11-19;70%;false;Mostly Positive
+7e5f2a8b;Sekiro: Shadows Die Twice;Souls-like;63;25.9;true;75m;2025-02-22;62%;true;Very Positive
+2d9c6b3f;Stardew Valley;Simulation;186;1.2;true;55m;2025-03-25;91%;true;Overwhelmingly Positive
+6a4e1d8c;Monster Hunter World;Action RPG;128;78.6;false;115m;2024-12-03;56%;true;Very Positive
+9c1f5b2a;Diablo IV;ARPG;94;92.8;true;95m;2025-01-09;70%;false;Mixed
+4e8d3a7f;Mass Effect Legendary;RPG;108;121.7;false;100m;2024-10-14;89%;true;Overwhelmingly Positive
+8b2c5f1d;Persona 5 Royal;JRPG;115;43.5;true;110m;2025-03-17;92%;true;Overwhelmingly Positive
+3d6a9c4e;Final Fantasy XVI;JRPG;78;87.2;false;100m;2024-11-25;79%;false;Mostly Positive
+7f1b2e8a;Outer Wilds;Adventure;27;5.8;true;50m;2025-02-10;96%;true;Overwhelmingly Positive
+2a5d7b3c;Satisfactory;Simulation;154;28.3;true;125m;2025-03-08;61%;false;Very Positive
+6d9f4c1b;Factorio;Simulation;210;3.2;true;135m;2025-03-27;72%;false;Overwhelmingly Positive
+9e2a8d5f;Hogwarts Legacy;Action RPG;46;82.6;false;70m;2024-09-30;77%;true;Very Positive
+4b7c3f1e;Atomic Heart;FPS;35;58.9;true;65m;2024-10-23;63%;true;Mixed
+8f5a1d6b;A Plague Tale: Requiem;Adventure;21;48.7;false;55m;2024-11-07;85%;true;Very Positive
+3a9e2c7d;The Callisto Protocol;Survival Horror;18;67.3;true;50m;2025-01-19;59%;true;Mixed
+7d2b5f8c;Warhammer 40K: Darktide;FPS;43;75.8;true;45m;2025-02-26;51%;false;Mixed
+2c6d1a9e;Returnal;Roguelike;54;62.4;false;65m;2024-12-22;78%;false;Very Positive
+6f3b8e4a;Ghostwire: Tokyo;Action Adventure;28;33.6;true;60m;2025-01-05;72%;true;Mostly Positive
+9a7c2d5b;Age of Empires IV;Strategy;87;45.2;true;85m;2025-03-15;83%;false;Very Positive
+4d1e6b8f;High On Life;FPS;16;28.9;true;50m;2025-02-08;66%;true;Mostly Positive
